@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Virgula Vulgaris Virgula Vulgaris Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Virgula Vulgaris Virgula Vulgaris Bold'), url('Virgula Vulgaris Bold.woff') format('woff');
+}
+
+h1{
+    font-family: "Virgula Vulgaris Virgula Vulgaris Bold";
+    font-weight: 200;
+    color: chartreuse;
+}
